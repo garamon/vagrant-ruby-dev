@@ -15,6 +15,7 @@ if ! command -v rbenv > /dev/null; then
     "sstephenson/rbenv-default-gems"
     "sstephenson/rbenv-gem-rehash"
     "rkh/rbenv-update"
+    "jf/rbenv-gemset"
   )
 
   # Install rbenv
